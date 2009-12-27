@@ -1,0 +1,10 @@
+; $Id: imce.info,v 1.0.0.0 2009/12/27 12:47:37 droplits Exp $
+name = droplitimce
+description = Droplit theme for IMCE
+core = 6.x
+engine = phptemplate
+stylesheets[screen,projection][] = style.css
+; screenshot = screenshot.png
+regions[content] = Content
+version = "6.x-1.1"
+project = "droplitimce"
